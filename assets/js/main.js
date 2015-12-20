@@ -43,7 +43,7 @@ $(document).ready(function() {
 	    
 	
 	$(document).on('pjax:send', function() { //pjax链接点击后显示加载动画；
-	    $(".pjax_loading").css("display", "block");
+	    //$(".pjax_loading").css("display", "block");
 	});
 	
 	 $(document).on('pjax:complete', function() {
@@ -52,7 +52,7 @@ $(document).ready(function() {
 				skillbar();
 	 	 		pajx_loadDuoshuo();//pjax加载完成之后调用重载多说函数
 				
-	 	 		$(".pjax_loading").css("display", "none");
+	 	 		// $(".pjax_loading").css("display", "none");
  	 		    pjax_loadChart();
 		        $('.bookpiclist .bookpic').hover(
 			                    function() {
