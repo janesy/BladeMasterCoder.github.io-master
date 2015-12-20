@@ -23,10 +23,10 @@ description:
 
 4.data-config.xml配置
 
-	<dataConfig>
+	
         uussnsnsnsnssnsnsnsns
         smsmssnssnsnsnsn
-	</dataConfig>
+	
 
 其中：
 - query是获取全部数据的SQL
