@@ -105,7 +105,7 @@ permalink: /pages/about.html
 				微博：
 			</td> 
 			<td>
-			       <a href="{{ site.author.weibo }}" target="_blank">http://weibo.com/u/3315130274</a> 	
+			       <a href="{{ site.author.weibo }}" target="_blank">weibo.com/u/3315130274</a> 	
 			</td> 
 		</tr>
 	</table>
