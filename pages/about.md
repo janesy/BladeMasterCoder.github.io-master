@@ -63,15 +63,15 @@ permalink: /pages/about.html
 	<table class="table table-striped">
 		<tr>
 			<td>姓  名：</td>    
-			<td>高  扬 （1991）</td>
+			<td>杨 友 枝 （1991）</td>
 		</tr>
 		<tr>
 			<td>学  历：</td>    
-			<td>研究生</td>
+			<td>本科</td>
 		</tr>
 		<tr>
 			<td>学  校：</td>    
-			<td>南京大学计算机科学技术系</td>
+			<td>湖南科技学院信息技术与教育系</td>
 		</tr>
 	</table>
 
@@ -84,7 +84,7 @@ permalink: /pages/about.html
 				Email：
 			</td>  
 			<td>
-				gycoderhh@gmail.com			
+				1603734046@qq.com			
 			</td>
 		</tr>
 
@@ -93,7 +93,7 @@ permalink: /pages/about.html
 				github：
 			</td>  
 			<td>
-				<a href="{{ site.author.github }}" target="_blank">github.com/BladeMasterCoder</a>
+				<a href="{{ site.author.github }}" target="_blank">github.com/janesy</a>
 			</td>  
 		</tr>
 
@@ -102,7 +102,7 @@ permalink: /pages/about.html
 				微博：
 			</td> 
 			<td>
-				<a href="{{ site.author.weibo }}" target="_blank">weibo.com/u/2344559062</a>
+				＃<a href="{{ site.author.weibo }}" target="_blank">weibo.com/u/2344559062</a>
 			</td> 
 		</tr>
 	</table>
@@ -113,7 +113,7 @@ permalink: /pages/about.html
 	<hr>
 	<br>
 	<p>
-	在校学生，一只码农，喜欢跑步，经常游泳，立志要为彰显码农正面形象做出贡献。
+	生活中的女汉子，IT界的萌妹子
 	</p>
 	<br>
 
