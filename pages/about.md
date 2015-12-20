@@ -10,8 +10,11 @@ permalink: /pages/about.html
 	<hr>
 	<br>
 	<p>
-	博客用<a href="http://jekyllrb.com/"><code>jekyll</code></a>（可将纯文本转化为静态网站和博客的语言）,<code>html</code>,<code>css</code>等构建。博客部署在<code>github</code>服务器上，前端采用<code>bootstrap</code>栅格式布局，可自适应移动端浏览器。
-	写博客的目的很单纯，就是记笔记，方便在不同终端上随时查看，偶尔也会记录身边发生的事情。
+	书山有路勤为径，学海无言苦作舟。IT界资讯日月更新，人才济济，学习之路永无止境。
+	踏入ios行业已有不少时日，深知这个行业的竞争压力，要跟上行业的步伐，就要多向他人学习。
+	三人行，必有我师焉，看到身边的小伙伴都拥有了属于自己的博客小窝，做的精美细致，
+	得一空闲的时候，记录下属于自己的心灵历程，是何等惬意的事情，于是，作为一纯纯的半生不熟的ios
+	小生，我也开始了自己的小历程……请期待我的佳作
 	</p>
 	<br>
 	
@@ -102,7 +105,7 @@ permalink: /pages/about.html
 				微博：
 			</td> 
 			<td>
-				＃<a href="{{ site.author.weibo }}" target="_blank">weibo.com/u/2344559062</a>
+				
 			</td> 
 		</tr>
 	</table>
