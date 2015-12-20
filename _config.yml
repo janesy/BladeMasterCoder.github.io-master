@@ -23,9 +23,9 @@ author:
 # 站点信息
 title : 虎小萌
 description: 
- <br>生活中的女汉子，IT界的萌妹子<br>
- <br>努力了不一定会有收获，但不努力一定没有收获<br>
- <br>努力做一个独一无二的程序狮<br>
+ 生活中的女汉子，IT界的萌妹子，
+ 努力了不一定会有收获，但不努力一定没有收获，
+ 努力做一个独一无二的程序狮
   
   
 url: http://janesy.github.io/
@@ -41,7 +41,7 @@ favicon : /assets/img/favicon.png
 
 #profile 个人信息
 
-profile_desc : 时光如流水，一去不复返<br> 往者不可追，来者犹可惜<br>
+profile_desc : 时光如流水<br>一去不复返<br> 往者不可追<br>来者犹可惜<br>
 
 # 首页除了最新文章外显示分类
 cates: 
