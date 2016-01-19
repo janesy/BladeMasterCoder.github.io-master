@@ -78,14 +78,23 @@ NSLog(@"---%f",_progress.totalSize);
 
 }
 
-- (void)requestFinished:(ASIHTTPRequest *)request
+-(void)request:(ASIHTTPRequest *)request didReceiveResponseHeaders:(NSDictionary *)responseHeaders{
+_progress.totalSize = request.contentLength/(1024.0*1024.0);
+NSLog(@"---%f",_progress.totalSize);
+
+}
+
+
+
+-(void)requestFinished:(ASIHTTPRequest *)request
 {
 [indicator stopAnimating];
 [_myAlertView dismissWithClickedButtonIndex:0 animated:NO];
 [self performSelector:@selector(nextMove) withObject:nil afterDelay:0.5];
 }
+}
 
-- (void)requestFailed:(ASIHTTPRequest *)request
+-(void)requestFailed:(ASIHTTPRequest *)request
 {
 _retryTime=0;
 if(_isCancel) return;
